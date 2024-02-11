@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the most populare javaScript freamwork ?",
+      "ans1": "Angular",
+      "ans2": "Vue",
+      "ans3": "React",
+      "ans4": "Svelt",
+      "correct": "React"
+    },
+    {
+      "question": "What is the most populare Style freamwork ?",
+      "ans1": "Tailwind",
+      "ans2": "BootStrap",
+      "ans3": "MaterialUi",
+      "ans4": "Svelt",
+      "correct": "Tailwind"
+    },
+    {
+      "question": "What is my name ?",
+      "ans1": "Samer",
+      "ans2": "Samia",
+      "ans3": "Sami",
+      "ans4": "Somer",
+      "correct": "Sami"
+    },
+    {
+      "question": "How old iam ?",
+      "ans1": "22",
+      "ans2": "23",
+      "ans3": "24",
+      "ans4": "25",
+      "correct": "25"
+    },
+    {
+      "question": "What i do for a living ?",
+      "ans1": "Politicion",
+      "ans2": "Writer",
+      "ans3": "Developer",
+      "ans4": "Monk",
+      "correct": "Developer"
+    }
+  ]
+}
